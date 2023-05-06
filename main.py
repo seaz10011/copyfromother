@@ -9,6 +9,3 @@ file_path = 'C:/20210817/123.txt'
 keyword = input("sharepoint")
 keyword = keyword.encode('utf-8', errors='replace')
 search_file(keyword, file_path)
-
-
-# Output:
